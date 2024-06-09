@@ -1,0 +1,5 @@
+# No third-party modules required for this project.
+# This project uses standard Python libraries only.
+
+# Required Python version
+python >= 3.6
