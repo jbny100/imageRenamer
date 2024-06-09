@@ -17,10 +17,10 @@ This Python program renames image files in a given directory based on a list of 
 ## Usage
 
 1. Clone or download the script to your local machine.
-2. Navigate to the directory containing the script using your terminal or command prompt.
-3. Run the script with the path to the directory containing the image files as an argument.
+2. Navigate to the directory containing the script in Terminal.
+3. In Terminal, run the script with the path to the folder/directory containing the files to rename as an argument.
 
 ### Example
 
 ```bash
-python rename_files.py /path/to/your/image_directory
+python3 rename_files.py /path/to/your/image_directory
