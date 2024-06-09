@@ -3,7 +3,7 @@ import sys
 from pathlib import Path
 
 def rename_files(directory, new_filenames):
-    """Rename image files in a specified directory based on list of new filesnames
+    """Rename image files in a specified directory based on list of new filenames
     and the directory name."""
     dir_path = Path(directory)  # Convert directory to Path object
     if not dir_path.is_dir():
